@@ -4,6 +4,8 @@ Team name: KCS
 
 Participants: Hayun(Judy) Kim, Japleen Kaur, Jiaxin Sun, YI-TING(Ellie) Chang
 
+Solution: Goldenage Buddy
+
 Inspiration:
 - Observing the challenges seniors face with technology and daily tasks.
 - Recognizing the need for integrated, accessible solutions to combat isolation and improve well-being.
