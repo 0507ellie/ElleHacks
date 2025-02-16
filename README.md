@@ -1,5 +1,7 @@
 Ellehacks 2025
+
 Team name: KCS
+
 Participants: Hayun(Judy) Kim, Japleen Kaur, Jiaxin Sun, YI-TING(Ellie) Chang
 
 Inspiration:
